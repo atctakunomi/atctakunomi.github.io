@@ -1,15 +1,17 @@
 .title {
   color: #0101DF;
 }
-body {background-color: #F2F2F2;}
+body {
+  background-image: url(http://www.netyasun.com/home/bk-img/b004.gif);
+}
 .btn {
 position: relative;
 display: block;
 width: 280px;
 padding: 40px;
-font-size: 30px;
 text-align: center;
 text-decoration: none;
+font-size: 30px;
 color: #FFF;
 background: #26C6DA;
 border-bottom: 2px solid #00838F;
@@ -20,7 +22,6 @@ a.cp_btn:active {
 border-bottom: 2px solid #26C6DA;
 box-shadow: 0 0 2px rgba(0, 0, 0, 0.30);
 }
-
 .top-wrapper {
   padding: 180px 0 100px 0;
   background-image: url(https://pbs.twimg.com/media/DPFWjguU8AEGthi.jpg);
